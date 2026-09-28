@@ -2,6 +2,9 @@
 Marielena Lopez Salguero 25007402
 Danny Rubén García Díaz 25000233
 
+Espacio de trabajo>
+https://drive.google.com/file/d/1d4S_bSNkR6B2hNoE-rN4bxk2Eixdaisc/view?usp=drive_link
+
 Contiene dos notebooks de Google Colab que resuelven los dos problemas del enunciado HT3.
 
 Problema1_WordCloud.ipynb y Problema2_Fruits_Vegetables_CNN
